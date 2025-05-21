@@ -13,6 +13,9 @@
 
 ---
 
+[![Contact on Instagram](https://img.shields.io/badge/Contact-Instagram-blue?logo=instagram)](https://instagram.com/kurtaysoft)
+
+
 ## 🛠 Features
 
 - Extracts saved passwords from major browsers (Chrome, Edge, Opera, Brave)
